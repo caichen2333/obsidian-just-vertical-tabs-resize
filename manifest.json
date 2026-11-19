@@ -1,0 +1,10 @@
+{
+  "id": "jvt-resizable-tabs",
+  "name": "Just Vertical Tabs Resize",
+  "version": "1.0.0",
+  "minAppVersion": "1.13.0",
+  "description": "Drag the inner edge of Just Vertical Tabs to resize the tab bar and remember its width.",
+  "author": "caichen2333",
+  "authorUrl": "https://github.com/caichen2333",
+  "isDesktopOnly": true
+}
