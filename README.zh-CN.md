@@ -25,7 +25,13 @@
 
 ## 安装
 
-项目通过 GitHub Releases 分发，尚未提交 Obsidian 社区目录。
+项目已提交并发布至 [Obsidian 社区目录](https://community.obsidian.md/plugins/jvt-resizable-tabs)。目录页面显示当前自动检查状态，满足审核要求后开放目录安装。GitHub Releases 同时提供安装包。
+
+### 社区目录安装
+
+1. 安装并启用 **Just Vertical Tabs**。
+2. 打开 **设置 → 第三方插件 → 浏览**，搜索 **Just Vertical Tabs Resize**。
+3. 点击 **安装 → 启用**。也可以在目录页面的安装按钮可用时，点击 **Add to Obsidian**。
 
 ### 手动安装
 

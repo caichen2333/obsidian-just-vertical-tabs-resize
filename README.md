@@ -25,7 +25,13 @@ The plugin operates in the main desktop window. Separate pop-out windows are out
 
 ## Install
 
-This project is distributed through GitHub Releases. Community-directory listing has not been submitted.
+The [Obsidian Community listing](https://community.obsidian.md/plugins/jvt-resizable-tabs) is published. The listing shows the current automated review status and enables directory installation when review requirements are met. Releases are also available from GitHub.
+
+### Community directory installation
+
+1. Install and enable **Just Vertical Tabs**.
+2. Open **Settings → Community plugins → Browse** and search for **Just Vertical Tabs Resize**.
+3. Select **Install**, then **Enable**. You can also use **Add to Obsidian** on the community listing when the installation button is enabled.
 
 ### Manual installation
 
@@ -85,7 +91,7 @@ git push origin main
 git push origin 1.0.1
 ```
 
-The release workflow runs the same checks and attaches `main.js`, `manifest.json`, `styles.css`, the installable ZIP, and `SHA256SUMS` to a GitHub release. Repository publication and releases are ready for manual or BRAT installation. Community-directory submission is a separate step through the [Obsidian Community directory](https://docs.obsidian.md/Plugins/Releasing/Submit%20your%20plugin).
+The release workflow runs the same checks and attaches `main.js`, `manifest.json`, `styles.css`, the installable ZIP, and `SHA256SUMS` to a GitHub release. The [community listing](https://community.obsidian.md/plugins/jvt-resizable-tabs) tracks the release and its automated review. See the [Obsidian submission guide](https://docs.obsidian.md/Plugins/Releasing/Submit%20your%20plugin) for the directory's release requirements.
 
 ## License and credits
 
