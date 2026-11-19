@@ -36,7 +36,7 @@ The [Obsidian Community listing](https://community.obsidian.md/plugins/jvt-resiz
 ### Manual installation
 
 1. Install and enable **Just Vertical Tabs** in Obsidian's community plugins.
-2. Download `jvt-resizable-tabs-1.0.0.zip` from the [latest release](https://github.com/caichen2333/obsidian-just-vertical-tabs-resize/releases/latest).
+2. Download the versioned `jvt-resizable-tabs-<version>.zip` from the [latest release](https://github.com/caichen2333/obsidian-just-vertical-tabs-resize/releases/latest).
 3. Extract the `jvt-resizable-tabs` folder into your vault's `.obsidian/plugins/` directory. It should contain `main.js`, `manifest.json`, and `styles.css` directly inside that folder.
 4. Open **Settings → Community plugins**, click the reload plugins button or restart Obsidian, and enable **Just Vertical Tabs Resize**.
 

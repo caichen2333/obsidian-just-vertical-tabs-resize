@@ -32,9 +32,9 @@ body.jvt-width-resizing .jvt-width-resize-handle {
   background-color: var(--interactive-accent);
 }
 
-body.jvt-width-resizing,
-body.jvt-width-resizing * {
-  cursor: col-resize !important;
-  user-select: none !important;
-  -webkit-user-select: none !important;
+body.jvt-active.jvt-width-resizing,
+body.jvt-active.jvt-width-resizing * {
+  cursor: col-resize;
+  user-select: none;
+  -webkit-user-select: none;
 }

@@ -36,7 +36,7 @@
 ### 手动安装
 
 1. 在 Obsidian 第三方插件中安装并启用 **Just Vertical Tabs**。
-2. 从 [最新 Release](https://github.com/caichen2333/obsidian-just-vertical-tabs-resize/releases/latest) 下载 `jvt-resizable-tabs-1.0.0.zip`。后续版本下载对应版本的 ZIP。
+2. 从 [最新 Release](https://github.com/caichen2333/obsidian-just-vertical-tabs-resize/releases/latest) 下载对应版本的 `jvt-resizable-tabs-<版本号>.zip`。
 3. 解压后，把 `jvt-resizable-tabs` 文件夹放入笔记库的 `.obsidian/plugins/`。该文件夹内直接包含 `main.js`、`manifest.json` 和 `styles.css`。
 4. 打开 **设置 → 第三方插件**，点击重新加载插件按钮，或重启 Obsidian，然后启用 **Just Vertical Tabs Resize**。
 
